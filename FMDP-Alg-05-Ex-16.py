@@ -41,3 +41,4 @@ def main():
     result = convert_from_decimal(decimal, base_output)
     print("O número convertido é:", result)
 
+main()
